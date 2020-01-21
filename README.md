@@ -1,3 +1,5 @@
+I followed following steps which instructed by Roker2 and Patched gx_fpd file for Santoni
+
 By Roker2
 
 ## gx_fpd
